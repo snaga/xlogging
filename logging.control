@@ -1,0 +1,5 @@
+# pgstattuple extension
+comment = 'enable/disable logging mode'
+default_version = '0.1'
+module_pathname = '$libdir/logging'
+relocatable = true
